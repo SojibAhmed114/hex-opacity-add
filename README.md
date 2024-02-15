@@ -1,6 +1,6 @@
 # hex-opacity-add
 hex opacity add 
-#100% — FF
+#100% — FF     br
 99% — FC
 98% — FA
 97% — F7
